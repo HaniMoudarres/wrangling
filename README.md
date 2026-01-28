@@ -1,6 +1,13 @@
-# Data Wrangling
+# DS3001 Homework 2 Data Wrangling
 
-Data wrangling in Pandas.
+##Files
 
-Copyright © Terence Johnson, 2025
-This code is freely available for personal, educational, and non-commercial use, provided that appropriate credit is given to the original author.
+- 'Q1.py' – Code solutions for all 4 parts of Question 1.
+- 'Q2.py' - Code solutions for all 9 parts of Question 2.
+- 'assignment.ipynb' - Written answers for all 3 Questions (code included aswell)
+
+## How to run
+
+1. Clone the repo
+2. Install Dependencies (numpy, matplotlib.pyplot)
+3. Run Python Scripts
